@@ -473,8 +473,7 @@ footer .copy{border-top:1px solid #4a2234;padding-top:18px;text-align:center;fon
     <div class="video-grid">
       <div class="vbox reveal"><p>🎧 Música romántica · Daniel Lazo – Si No Es Contigo</p><div class="ratio"><iframe src="https://www.youtube.com/embed/pWxpHSahRw4" title="Daniel Lazo - Si No Es Contigo" allowfullscreen loading="lazy"></iframe></div></div>
       <div class="vbox reveal"><p>📦 Musica Zoe - luna</p><div class="ratio"><iframe src="https://www.youtube.com/embed/RYlKXvCxBz8" title="Video de Zoe - luna" allowfullscreen loading="lazy"></iframe></div></div>
-      <div class="vbox reveal"><p>💙 Unboxing especial JHULEY</p>
-        <video class="local-video" controls autoplay loop muted playsinline><source src="Jhuley_video1_unboxing_azul.mp4" type="video/mp4">Tu navegador no soporta video.</video>
+     <div class="vbox reveal"><p>💙 Musica XD </p><div class="ratio"><iframe src="https://www.youtube.com/embed/13k3Xw7doWw" title="Unboxing especial JHULEY" allowfullscreen loading="lazy"></iframe></div></div>
       </div>
     </div>
   </div>
